@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Hanifullah</h1>
-<h3 align="center">A passionate frontend MERN stack developer from Pakistan.</h3>
+<h3 align="center">A passionate MERN stack developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-hanifullah&label=Profile%20views&color=0e75b6&style=flat" alt="syed-hanifullah" /> </p>
 
